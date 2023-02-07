@@ -1,0 +1,26 @@
+{
+  "name": "device-uiautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/test.js",
+  "scripts": {
+    "test": "npx testcafe chrome tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafellow/device-UIAutomation.git"
+  },
+  "keywords": [
+    "Node",
+    "TestCafe"
+  ],
+  "author": "Dafellow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dafellow/device-UIAutomation/issues"
+  },
+  "homepage": "https://github.com/Dafellow/device-UIAutomation#readme",
+  "devDependencies": {
+    "testcafe": "^2.3.0"
+  }
+}
